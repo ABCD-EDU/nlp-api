@@ -1,0 +1,123 @@
+Maaga, B_INCR
+Malapit, B_INCR
+Maganda, B_INCR
+Magaling, B_INCR
+Madali, B_INCR
+Masaya, B_INCR
+Maingat, B_INCR
+Mabusisi, B_INCR
+Mabuti, B_INCR
+Malakas, B_INCR
+Mahina, B_DECR
+Magaan, B_INCR
+Malayo, B_DECR
+Maluwag, B_INCR
+Maikli, B_DECR
+Matagal, B_DECR
+Matipid, B_INCR
+Masinsin, B_INCR
+Makaangkop, B_INCR
+Marahan, B_DECR
+Mabilisan, B_INCR
+Maaalalahanin, B_INCR
+Madalas, B_INCR
+Mahirap, B_DECR
+Maingay, B_DECR
+Masipag, B_INCR
+Matapat, B_INCR
+Masigla, B_INCR
+Mapanganib, B_DECR
+Masama, B_DECR
+Mahusay, B_INCR
+Madiin, B_INCR
+Masikap, B_INCR
+Matibay, B_INCR
+Madamdamin, B_INCR
+Mabagal, B_DECR
+Maagap, B_INCR
+Malinis, B_INCR
+Masayang, B_DECR
+Mahusay, B_INCR
+Malalim, B_INCR
+Maselan, B_DECR
+Masinop, B_INCR
+Masunurin, B_INCR
+Masigasig, B_INCR
+Makatotohanan, B_INCR
+Makabuluhan, B_INCR
+Malala, B_INCR
+Malumanay, B_DECR
+Mapagkakatiwalaan, B_INCR
+Mabait, B_INCR
+Mautak, B_INCR
+Masarap, B_INCR
+Masidhi, B_INCR
+Madugo, B_INCR
+Mapanganib, B_INCR
+Malamig, B_DECR
+Masamang, B_INCR
+Maamo, B_DECR
+Maluho, B_INCR
+Masakit, B_INCR
+Magiliw, B_INCR
+Matapang, B_INCR
+Masagana, B_INCR
+Madiin, B_INCR
+Madulas, B_INCR
+Mabangis, B_INCR
+Maabilidad, B_INCR
+Nakaka, B_INCR
+Napaka, B_INCR
+Apaka, B_INCR
+Unay, B_INCR
+Pudno, B_INCR
+Walang-wala, B_DECR
+Kahanga-hanga, B_INCR
+Kakila-kilabot, B_INCR
+Lubusan, B_INCR
+Malalim, B_INCR
+Pagkalaki-laking, B_INCR
+Labis-labis, B_INCR
+Nang lubusan, B_INCR
+Lalo na, B_INCR
+Pambihira, B_INCR
+Katangi-tangi, B_INCR
+Pambihirang, B_INCR
+Napakalaki, B_INCR
+Hindi kapani-pa niwala, B_DECR
+Matindi, B_INCR
+Grabe, B_INCR
+Matinding, B_INCR
+Grabeng, B_INCR
+Sobrang, B_INCR
+Pangunahin, B_INCR
+Pangunahin na, B_INCR
+Higit pa, B_INCR
+Ang pinakamarami, B_INCR
+Partikular na, B_INCR
+Labis, B_INCR
+Sobra, B_INCR
+Lubos, B_INCR
+Puro, B_INCR
+Medyo, B_DECR
+True, B_INCR
+Tunay, B_INCR
+Gayo'y, B_DECR
+Malaking bahagi, B_INCR
+Ganap, B_INCR
+Di-kapani-paniwala, B_DECR
+Over, B_INCR
+Mismo, B_INCR
+Halos, B_DECR
+Halos wala, B_DECR
+Halos hindi, B_DECR
+Sapat na, B_INCR
+Kulang, B_DECR
+Maliit, B_DECR
+Minstan, B_DECR
+Paminsan-minsan, B_DECR
+Bahagyang bahagi, B_DECR
+Kakaunti, B_DECR
+Bahagya laman, B_DECR
+Bahagya, B_DECR
+Medyo, B_DECR

@@ -1,0 +1,109 @@
+agaw buhay, -2
+anak pawis, -1
+anak dalita, -1
+alilang kanin, -1
+balitang kutsero, -2
+balik harap, -2
+bantay salakay, -2
+bungang araw, -1
+bungang tulog, -1
+balat sibuyas, -1
+balat kalabaw, -1
+buto't balat, -2
+tulak ng bibig, -1
+dalawa ang bibig, -1
+halang ang bituka, -2
+mahapdi ang bituka, -1
+makapal ang bulsa, 2
+butas ang bulsa, -1
+sukat ang bulsa, 2
+nagbabatak ng buto, 2
+matigas ang buto, 1
+kidlat sa bilis, 1
+kusang palo, 2
+mabigat ang kamay, -1
+magaan ang kamay, 2
+mabilis ang kamay, -2
+malikot ang kamay, -2
+di makabasag pinggan, 1
+di mahulugang karayom, 0
+pag iisang dibdib, 1
+kabiyak ng dibdib, 1
+daga sa dibdib, -1
+nagbukas ng dibdib, 2
+bulaklak ng dila, -1
+magdilang anghel, 2
+makati ang dila, -1
+matalas ang dila, -1
+maanghang ang dila, -1
+matamis ang dila, 1
+kaututang dila, 0
+sanga sangang dila, -1
+may krus ang dila, -1
+kumukulo ang dugo, -2
+magaan ang dugo, 2
+maitim ang dugo, -2
+hampas lupa, -2
+haligi ng tahanan, 1
+ilaw ng tahanan, 1
+itaga sa bato, -1
+isulat sa tubig, -1
+makitid ang isip, -2
+malawak ang isip, 2
+malakas ang loob, 2
+mahina ang loob, -1
+mababa ang loob, -1
+masama ang loob, -2
+mabigat ang loob, -1
+bukal sa loob, 1
+makuskos balungos, -1
+mahaba ang buntot, -1
+malapad ang papel, 1
+may magandang hinaharap, 2
+may sinasabi, 2
+matalas ang mata, 1
+tatlo ang mata, 1
+namuti ang mata, -1
+matigas ang leeg, -1
+matigas ang katawan, -1
+makapal ang palad, 2
+maitim ang budhi, -2
+mababaw ang luha, -1
+makapal ang mukha, -2
+manipis ang mukha, -1
+maaliwalas ang mukha, 2
+madilim ang mukha, -1
+dalawa ang mukha, -2
+nakahiga sa salapi, 2
+nakahiga sa pera, 2
+nagbibilang ng poste, -1
+namamangka sa dalawang ilog, -2
+ningas kugon, -2
+panis ang laway, -1
+patay gutom, -2
+pulot gata, 1
+putok sa buho, -1
+makati ang paa, -1
+pantay ang mga paa, -2
+saling pusa, -1
+sampid bakod, -1
+samaing palad, -1
+takaw tulog, -1
+tawang aso, -1
+matalas ang tainga, 1
+maputi ang tainga, -1
+nakapinid ang tainga, -1
+taingang kawali, -2
+utang na loob, 1
+matalas ang ulo, 2
+mahangin ang ulo, -1
+malamig ang ulo, 1
+mainit ang ulo, -2
+lumaki ang ulo, -2
+matigas ang ulo, -2
+basag ulo, -2
+may ipot sa ulo, -2
+sira ang ulo, -2
+sira ang tuktok, -2
+utak biya, -2
+matalas ang utak, 2

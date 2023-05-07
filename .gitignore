@@ -1,1 +1,3 @@
 /nlpenv
+.env
+app/loaders/model/topic
