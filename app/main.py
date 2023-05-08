@@ -5,6 +5,10 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi import FastAPI, APIRouter
 import uvicorn
 
+from routes.base import app_router
+
+def include_router(app):
+    app.include_router(app_router)
 
 def add_cors(app_):
     origins = ["*"]
@@ -16,10 +20,12 @@ def add_cors(app_):
         allow_headers=["*"],
     )
 
-app = FastAPI()
-if __name__ == "__main__":
-    app_router = APIRouter()
-    app.include_router(metrics_router, prefix="/metrics", tags=["Metrics"])
-    app.include_router(analysis_router, prefix="/analysis", tags=["Analysis"]) 
-    add_cors(app) 
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+def start_application():
+    app = FastAPI(title="ABCD-EDU API", description="ABCD-EDU", version=1.0)
+    include_router(app)
+    add_cors(app)
+    
+    return app
+
+app = start_application()
+

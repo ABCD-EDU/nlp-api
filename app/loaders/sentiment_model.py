@@ -13,6 +13,7 @@ def _clean_output(input_data):
          output['negative'] = value
       if key=='neu':
          output['neutral'] = value
+   return output
          
 def perform_sentiment_analysis(text:str):
    return _clean_output(analyzer.polarity_scores(text))

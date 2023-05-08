@@ -8,8 +8,8 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 file_path = os.path.join(current_dir, 'model','topic', 'topic_model_mmr')
 
 
-# embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
-# topic_model = BERTopic.load(file_path, embedding_model=embedding_model)
+embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
+topic_model = BERTopic.load(file_path, embedding_model=embedding_model)
 
 topics = ['General', 'Parks and Recreation', 'Traffic Management', 'Waste Management', 'Housing', 'Public Safety', 'Infrastructure', 'Healthcare', 'Tourism and Travel Destinations','Food', 'Environment', 'Arts and Culture', 'Community Development',
          'Taxes Budget and Finance', 'City Ordinances']
@@ -35,5 +35,4 @@ def _clean_output(input_data):
 
 
 def perform_topic_modelling(text:str):
-   return "nice"
-   # return _clean_output(topic_model.transform(text))
+   return _clean_output(topic_model.transform(text))
