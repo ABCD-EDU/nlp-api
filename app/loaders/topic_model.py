@@ -31,8 +31,11 @@ def _clean_output(input_data):
    arr = np.array(topics_score[0])
    topics_scores = np.round(arr, 5)
    topN_topics = _get_topN_topics(arr)
-   return topics_scores, topN_topics
-
+   topic_numbers = [f"topic{i}" for i in range(0,15)]
+   topics_scores_ ={} 
+   for topic_number, topic_score in zip(topic_numbers, topics_scores):
+      topics_scores_[topic_number] =  topic_score
+   return topics_scores_, topN_topics
 
 def perform_topic_modelling(text:str):
    return _clean_output(topic_model.transform(text))
